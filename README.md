@@ -24,9 +24,12 @@ The report shows a good recall score but a very low precision score thus a low f
 
 
 ### Undersampling
-The accuracy score is low for undersampling
+The accuracy score is low for undersampling.
+
 ![UNDERSAMPLING SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Undersampling%20Accuracy%20Score.PNG)
+
 recall and precision are low for both low and high risk predictability.
+
 ![UNDERSAMPLING REPORT](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Undersampling%20Report.PNG)
 
 
