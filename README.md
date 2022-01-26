@@ -31,8 +31,9 @@ recall and precision are low for both low and high risk predictability.
 
 
 ### Combination (Over and Under) Sampling
-Accuracy score is moderate for combined over and under sampling
+Accuracy score is moderate for combined over and under sampling.
 ![COMBO SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Combonation%20(Over%20and%20Under)%20Sampling%20Accuracy%20Score.PNG)
+
 recall is moderate and precision is low for high risk predicting. precision is high and recall is low for low risk predicting. 
 ![COMBO REPORT](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Combination%20(Over%20and%20Under)%20Sampling%20Report.PNG)
 
