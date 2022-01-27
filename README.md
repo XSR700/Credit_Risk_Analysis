@@ -24,7 +24,7 @@ The report showsvery low precision for with low recall for high risk predicting.
 ![SMOTE OVERSAMPLING REPORT](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/SMOTE%20Oversampling%20Report.PNG)
 
 
-### Undersampling
+- Undersampling
 The accuracy score is low for undersampling.
 
 ![UNDERSAMPLING SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Undersampling%20Accuracy%20Score.PNG)
@@ -34,7 +34,7 @@ recall and precision are low for both low and high risk predictability.
 ![UNDERSAMPLING REPORT](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Undersampling%20Report.PNG)
 
 
-### Combination (Over and Under) Sampling
+- Combination (Over and Under) Sampling
 Accuracy score is moderate for combined over and under sampling.
 
 ![COMBO SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Combonation%20(Over%20and%20Under)%20Sampling%20Accuracy%20Score.PNG)
@@ -45,7 +45,7 @@ recall is moderate and precision is low for high risk predicting. precision is h
 
 
 
-### Ensemble Learners: Balanced Forest Classifer
+- Ensemble Learners: Balanced Forest Classifer
 With balanced random forest classifier of ensemble learning algorithm the accuracy score is moderate. 
 
 ![ENSEMBLE SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Balanced%20Random%20Forest%20Classifier%20Accuracy%20Score.PNG)
@@ -54,7 +54,7 @@ The precision is moderate and recall is low for high risk predicting.The precisi
 
 ![ENSEMBLE REPORT](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Balanced%20Random%20Forest%20Classifier%20Report.PNG)
 
-### Easy Ensemble AdaBoost Classifer
+- Easy Ensemble AdaBoost Classifer
 
 With easy ensemble adaboost classifier algorithm, the accuracy score is high.  
 
