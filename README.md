@@ -6,7 +6,7 @@ a loan lending service company would like to better evaluate candidates by credi
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-### Oversampling Results
+- Oversampling Results
 Accuracy Score is higher than 50% but not high
 
 ![RANDOM OVERSAMPLING SCORE](https://github.com/XSR700/Credit_Risk_Analysis/blob/main/Screenshots/Naive%20Random%20Oversampling%20Accuracy%20Score.PNG)
