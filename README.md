@@ -67,4 +67,4 @@ In the report the precision is very low for high risk predicting, but high on se
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
-In our case, where we are trying to screen candidates for a loan, we do not want too many high risk candidates labeled as low risk for our model. In other words we want less false negatives. Therefore a high precision predicting algorithm is more important. We may lose some low risk candidates who were identified as high risk but that will be better than letter too many high risk candidates through.  
+In our case, when we are trying to screen candidates for a loan, we do not want too many high risk candidates labeled as low risk for our model. In other words we want less false negatives. Therefore a high precision predicting algorithm is more important. We will lose low risk candidates in the process but that will be better than let too many high risk candidates through.  
