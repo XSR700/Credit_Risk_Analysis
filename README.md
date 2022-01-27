@@ -68,3 +68,10 @@ In the report the precision is very low for high risk predicting, but high on se
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
 In our case, when we are trying to screen candidates for a loan, we do not want too many high risk candidates labeled as low risk for our model. In other words we want less false negatives. Therefore a high precision predicting algorithm is more important. We will lose low risk candidates in the process but that will be better than let too many high risk candidates through.  
+
+Out of all the algorithms performed, none showed a promosing robust result to confindently predict our results. Most of the models show very low precision scores and only easy ensemble adaboost classifier showed a high accuracy score. 
+
+The highest precision score resulted in ensemble balanced forest classifer with 0.73 and is moderate but not high. The F1 score for this model was very high due to high precision and sensitivity of low risk predicting pushing this score to 1.0. This means that the ensemble balanced forest classifier detected all the low risk applicants correctly but was not sensitive or very precise at finding the high risk users. The accuracy score of this model was not strong but higher than fifty percent at 0.62. Ovverall this is a good model to use but does not show strong reliability. 
+
+There are deeper trade-offs to take into consideration in this case. a low and high risk is vague and may have variance within its definition. An individual high risk applicant could have a criminal record while the other high risk applicant is high in debt. In this example, risks could be interpreted differently. For discussions like these, perhaps letting some high risk applicants is a sacrifice the loan lending company can afford to take in order to profit higher in the long term. Then the ensemble AdaBoost classifer is more exceptional to use because it has very high sensitivity numbers and a high accuracy score. 
+
